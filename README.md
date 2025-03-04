@@ -9,4 +9,4 @@ Responsabilidad:
 No somos responsables por posibles bloqueos o restricciones de TikTok al usar esta app.
 Contacto: Si tienes preguntas, puedes contactarnos en murmursmidnight7@gmail.com
 
-tiktok-developers-site-verification=11HZV1MWBEE4c8hVvxNiuUcmM7IJsnqW
+tiktok-developers-site-verification=4eTzWznJl8tBXApJFhlq0loisXEgbfBO
