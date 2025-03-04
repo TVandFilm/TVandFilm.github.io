@@ -8,5 +8,3 @@ No se permite el uso para spam, bots o contenido que viole las normas de TikTok.
 Responsabilidad:
 No somos responsables por posibles bloqueos o restricciones de TikTok al usar esta app.
 Contacto: Si tienes preguntas, puedes contactarnos en murmursmidnight7@gmail.com
-
-tiktok-developers-site-verification=4eTzWznJl8tBXApJFhlq0loisXEgbfBO
